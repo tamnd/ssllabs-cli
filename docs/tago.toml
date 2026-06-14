@@ -1,0 +1,10 @@
+title       = "ssllabs"
+baseURL     = "https://ssllabs-cli.tamnd.com/"
+description = "A command line for ssllabs."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/ssllabs-cli"
